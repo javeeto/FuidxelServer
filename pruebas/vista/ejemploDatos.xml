@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<atom:entry xmlns:cmis="http://docs.oasis-open.org/ns/cmis/core/200908/"
+            xmlns:cmism="http://docs.oasis-open.org/ns/cmis/messaging/200908/"
+            xmlns:atom="http://www.w3.org/2005/Atom"
+            xmlns:app="http://www.w3.org/2007/app"
+            xmlns:cmisra="http://docs.oasis-open.org/ns/cmis/restatom/200908/">
+    <atom:title>0000005.pdf</atom:title>
+    <atom:summary>0000005.pdf</atom:summary>
+    <cmisra:object>
+        <cmis:properties>   
+            <cmis:propertyString propertyDefinitionId="cm:title" displayName="Titulo" localName="title" queryName="cm:title"/>
+            <cmis:propertyString propertyDefinitionId="cm:subject" displayName="Asunto" localName="subject" queryName="cm:subject"/>
+            <cmis:propertyString propertyDefinitionId="cm:rights" displayName="Derechos" localName="rights" queryName="cm:rights"/>
+            <cmis:propertyString propertyDefinitionId="cm:coverage" displayName="Cobertura" localName="coverage" queryName="cm:coverage"/>
+            <cmis:propertyString propertyDefinitionId="cm:dcsource" displayName="Origen" localName="dcsource" queryName="cm:dcsource"/>
+            <cmis:propertyString propertyDefinitionId="cm:description" displayName="Descripcion" localName="description" queryName="cm:description"/>
+            <cmis:propertyString propertyDefinitionId="cm:publisher" displayName="Editor" localName="publisher" queryName="cm:publisher"/>
+            <cmis:propertyString propertyDefinitionId="cm:identifier" displayName="Identificador" localName="identifier" queryName="cm:identifier"/>
+            <cmis:propertyString propertyDefinitionId="cm:type" displayName="Tipo" localName="type" queryName="cm:type"/>
+            <cmis:propertyString propertyDefinitionId="cm:contributor" displayName="Contribuidor" localName="contributor" queryName="cm:contributor"/>
+            <cmis:propertyString propertyDefinitionId="cm:author" displayName="Autor" localName="author" queryName="cm:author"/>
+            <cmis:propertyString propertyDefinitionId="isadcol:observacion" displayName="Observacion" localName="observacion" queryName="isadcol:observacion"/>
+            <cmis:propertyString propertyDefinitionId="isadcol:identificador" displayName="Identificador" localName="identificador" queryName="isadcol:identificador"/>
+            <e1:setAspects xmlns:e1="http://www.alfresco.org">
+                <e1:aspectsToAdd>P:cm:dublincore</e1:aspectsToAdd>
+                <e1:appliedAspects>P:isadcol:isadcol</e1:appliedAspects>
+                <e1:aspectsToAdd>P:sys:localized</e1:aspectsToAdd>
+                <e1:aspectsToAdd>P:cm:author</e1:aspectsToAdd>
+                <e1:properties>
+                    <cmis:propertyString propertyDefinitionId="cm:title" localName="title" queryName="cm:title" displayName="Titulo">
+                        <cmis:value>0000005.pdf</cmis:value>
+                    </cmis:propertyString>
+                    <cmis:propertyString propertyDefinitionId="cm:subject" localName="subject" queryName="cm:subject" displayName="Asunto">
+                        <cmis:value>Otra Cosa</cmis:value>
+                    </cmis:propertyString>
+                    <cmis:propertyString propertyDefinitionId="cm:rights" localName="rights" queryName="cm:rights" displayName="Derechos"/>
+                    <cmis:propertyString propertyDefinitionId="cm:coverage" localName="coverage" queryName="cm:coverage" displayName="Cobertura"/>
+                    <cmis:propertyString propertyDefinitionId="cm:dcsource" localName="dcsource" queryName="cm:dcsource" displayName="Origen"/>
+                    <cmis:propertyString propertyDefinitionId="cm:description" localName="description" queryName="cm:description" displayName="Descripcion"/>
+                    <cmis:propertyString propertyDefinitionId="cm:publisher" localName="publisher" queryName="cm:publisher" displayName="Editor"/>
+                    <cmis:propertyString propertyDefinitionId="cm:identifier" localName="identifier" queryName="cm:identifier" displayName="Identificador"/>
+                    <cmis:propertyString propertyDefinitionId="cm:type" localName="type" queryName="cm:type" displayName="Tipo"/>
+                    <cmis:propertyString propertyDefinitionId="cm:contributor" localName="contributor" queryName="cm:contributor" displayName="Contribuidor"/>
+                    <cmis:propertyString propertyDefinitionId="cm:author" localName="author" queryName="cm:author" displayName="Autor"/>          
+                    
+                    <cmis:propertyString propertyDefinitionId="isadcol:observacion" localName="observacion" queryName="isadcol:observacion" displayName="Observacion">
+                        <cmis:value>Documento de contenido especial</cmis:value>
+                    </cmis:propertyString>
+                    <cmis:propertyString propertyDefinitionId="isadcol:identificador" localName="identificador" queryName="isadcol:identificador" displayName="Identificador">
+                        <cmis:value>00-0000-345</cmis:value>
+                    </cmis:propertyString>
+                </e1:properties>
+            </e1:setAspects>
+        </cmis:properties>
+    </cmisra:object>
+
+</atom:entry>
+

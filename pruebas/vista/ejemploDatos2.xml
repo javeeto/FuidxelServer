@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<atom:entry xmlns:cmis="http://docs.oasis-open.org/ns/cmis/core/200908/"
+            xmlns:cmism="http://docs.oasis-open.org/ns/cmis/messaging/200908/"
+            xmlns:atom="http://www.w3.org/2005/Atom"
+            xmlns:app="http://www.w3.org/2007/app"
+            xmlns:cmisra="http://docs.oasis-open.org/ns/cmis/restatom/200908/">
+    <atom:title>201612000044000057.pdf</atom:title>
+    <atom:summary>201612000044000057.pdf</atom:summary>
+    <cmisra:object>
+        <cmis:properties>   
+            <cmis:propertyString propertyDefinitionId="isadagncol:codigoreference" displayName="Codigo de referencia" localName="codigoreference" queryName="isadagncol:codigoreference"/>
+            <cmis:propertyString propertyDefinitionId="isadagncol:titulo" displayName="Titulo" localName="titulo" queryName="isadagncol:titulo"/>
+            <cmis:propertyString propertyDefinitionId="isadagncol:otroscontexto" displayName="1.12.5 Otros" localName="otroscontexto" queryName="isadagncol:otroscontexto"/>
+            <cmis:propertyString propertyDefinitionId="isadagncol:fechaextini" displayName="Fecha Extrema Inicial" localName="fechaextini" queryName="isadagncol:fechaextini"/>
+            <cmis:propertyString propertyDefinitionId="isadagncol:fechaextfin" displayName="Fecha extrema final" localName="fechaextfin" queryName="isadagncol:fechaextfin"/>
+            <cmis:propertyString propertyDefinitionId="isadagncol:fechaacotaini" displayName="Fecha acotación inicial" localName="fechaacotaini" queryName="isadagncol:fechaacotaini"/>
+            <cmis:propertyString propertyDefinitionId="isadagncol:fechaacotafin" displayName="Fecha acotacion final" localName="fechaacotafin" queryName="isadagncol:fechaacotafin"/>
+            <cmis:propertyString propertyDefinitionId="isadagncol:soporte" displayName="1.11 Soporte" localName="soporte" queryName="isadagncol:soporte"/>
+            <cmis:propertyString propertyDefinitionId="isadagncol:unidaddocumental" displayName="1.12.1 Unidad documental" localName="unidaddocumental" queryName="isadagncol:unidaddocumental"/>
+            <cmis:propertyString propertyDefinitionId="isadagncol:expedientecarpeta" displayName="1.12.2 Expediente o carpeta" localName="expedientecarpeta" queryName="isadagncol:expedientecarpeta"/>
+            <cmis:propertyString propertyDefinitionId="isadagncol:legajo" displayName="1.12.3 Legajo" localName="legajo" queryName="isadagncol:legajo"/>
+            <cmis:propertyString propertyDefinitionId="isadagncol:folios" displayName="1.12.5 Folios( físico o electronico)" localName="folios" queryName="isadagncol:folios"/>
+            <cmis:propertyString propertyDefinitionId="isadagncol:tipodocumental" displayName="1.13 Tipo documental" localName="tipodocumental" queryName="isadagncol:tipodocumental"/>
+            <cmis:propertyString propertyDefinitionId="isadagncol:nodeorden" displayName="1.14 No de orden " localName="nodeorden" queryName="isadagncol:nodeorden"/>
+                
+            <e1:setAspects xmlns:e1="http://www.alfresco.org">
+                <e1:aspectsToAdd>P:isadagncol:isadagncol</e1:aspectsToAdd>
+                <e1:properties>
+
+                    <cmis:propertyString propertyDefinitionId="isadagncol:codigoreference" localName="codigoreference" queryName="isadagncol:codigoreference" displayName="Codigo de referencia">
+                        <cmis:value>2016214234107</cmis:value>
+                    </cmis:propertyString>
+                    <cmis:propertyString propertyDefinitionId="isadagncol:titulo" localName="titulo" queryName="isadagncol:titulo" displayName="Titulo">
+                        <cmis:value>ARchivo Tramite</cmis:value>
+                    </cmis:propertyString>
+                    <cmis:propertyString propertyDefinitionId="isadagncol:otroscontexto" localName="otroscontexto" queryName="isadagncol:otroscontexto" displayName="1.12.5 Otros">
+                        <cmis:value>SADASD</cmis:value>
+                    </cmis:propertyString>
+                    <cmis:propertyString propertyDefinitionId="isadagncol:fechaextini" localName="fechaextini" queryName="isadagncol:fechaextini" displayName="Fecha Extrema Inicial">
+                        <cmis:value>21/12/2016</cmis:value>
+                    </cmis:propertyString>
+                    <cmis:propertyString propertyDefinitionId="isadagncol:fechaextfin" localName="fechaextfin" queryName="isadagncol:fechaextfin" displayName="Fecha extrema final">
+                        <cmis:value>13/12/2016</cmis:value>
+                    </cmis:propertyString>
+                    <cmis:propertyString propertyDefinitionId="isadagncol:fechaacotaini" localName="fechaacotaini" queryName="isadagncol:fechaacotaini" displayName="Fecha acotación inicial">
+                        <cmis:value>2016-12-14</cmis:value>
+                    </cmis:propertyString>
+                    <cmis:propertyString propertyDefinitionId="isadagncol:fechaacotafin" localName="fechaacotafin" queryName="isadagncol:fechaacotafin" displayName="Fecha acotacion final">
+                        <cmis:value>2016-12-16</cmis:value>
+                    </cmis:propertyString>
+                    <cmis:propertyString propertyDefinitionId="isadagncol:soporte" localName="soporte" queryName="isadagncol:soporte" displayName="1.11 Soporte">
+                        <cmis:value>Fisico y electronico</cmis:value>
+                    </cmis:propertyString>
+                    <cmis:propertyString propertyDefinitionId="isadagncol:unidaddocumental" localName="unidaddocumental" queryName="isadagncol:unidaddocumental" displayName="1.12.1 Unidad documental">
+                        <cmis:value>12-5235234-56-1</cmis:value>
+                    </cmis:propertyString>
+                    <cmis:propertyString propertyDefinitionId="isadagncol:expedientecarpeta" localName="expedientecarpeta" queryName="isadagncol:expedientecarpeta" displayName="1.12.2 Expediente o carpeta">
+                        <cmis:value>12-5235234-56</cmis:value>
+                    </cmis:propertyString>
+                    <cmis:propertyString propertyDefinitionId="isadagncol:legajo" localName="legajo" queryName="isadagncol:legajo" displayName="1.12.3 Legajo">
+                        <cmis:value>4</cmis:value>
+                    </cmis:propertyString>
+                    <cmis:propertyString propertyDefinitionId="isadagncol:folios" localName="folios" queryName="isadagncol:folios" displayName="1.12.5 Folios(físico o electronico)">
+                        <cmis:value>3</cmis:value>
+                    </cmis:propertyString>
+                    <cmis:propertyString propertyDefinitionId="isadagncol:tipodocumental" localName="tipodocumental" queryName="isadagncol:tipodocumental" displayName="1.13 Tipo documental">
+                        <cmis:value>Expediente</cmis:value>
+                    </cmis:propertyString>
+                    <cmis:propertyString propertyDefinitionId="isadagncol:nodeorden" localName="nodeorden" queryName="isadagncol:nodeorden" displayName="1.14 No de orden">
+                        <cmis:value>1</cmis:value>
+                    </cmis:propertyString>
+                                        
+
+                </e1:properties>
+            </e1:setAspects>
+        </cmis:properties>
+    </cmisra:object>
+</atom:entry>
