@@ -16,11 +16,12 @@
  */
 
 /**
- * Descripcion del codigo de index
+ * Descripcion del codigo de indice redirección a entrada
  * 
  * @file index.php
  * @author Javier Lopez Martinez
  * @date 13/09/2016
  * @brief Redirecciona a la entrada
  */
+
 echo "<META HTTP-EQUIV='refresh' CONTENT='1;URL=entrada/vista/index.php'/>";
